@@ -13,12 +13,11 @@ function App() {
 
   return (
     <>
-      <div>
-        <a href="#" target="_blank">
-          <img src={ElodiePng} className="logo" alt="Elodie logo" />
-        </a>
-      </div>
-      <h1>Elodie Hope Dela Cruz</h1>
+       <div class="blessing-elements">🕊️</div>
+        <div class="blessing-elements2">🙏</div>
+        <img class="portrait" src={ElodiePng} alt="Celebrant Photo" />
+        <div class="name">Elodie Hope Dela Cruz</div>
+        <div class="message">Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.</div>
     </>
   )
 }
