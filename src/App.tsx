@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div>
-        <a href="# target="_blank">
+        <a href="#" target="_blank">
           <img src={ElodiePng} className="logo" alt="Elodie logo" />
         </a>
       </div>
