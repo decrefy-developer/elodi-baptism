@@ -17,7 +17,9 @@ function App() {
         <div className="blessing-elements2">🙏</div>
         <img className="portrait" src={ElodiePng} alt="Celebrant Photo" />
         <div className="name">Elodie Hope Dela Cruz</div>
-        <div className="message">Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.</div>
+        <div className="message">“Let the little children come to me, and do not hinder them,<br></br> for the kingdom of God belongs to such as these.”
+
+</div>
     </>
   )
 }
