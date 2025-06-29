@@ -13,11 +13,11 @@ function App() {
 
   return (
     <>
-       <div class="blessing-elements">🕊️</div>
-        <div class="blessing-elements2">🙏</div>
-        <img class="portrait" src={ElodiePng} alt="Celebrant Photo" />
-        <div class="name">Elodie Hope Dela Cruz</div>
-        <div class="message">Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.</div>
+       <div className="blessing-elements">🕊️</div>
+        <div className="blessing-elements2">🙏</div>
+        <img className="portrait" src={ElodiePng} alt="Celebrant Photo" />
+        <div className="name">Elodie Hope Dela Cruz</div>
+        <div className="message">Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.</div>
     </>
   )
 }
