@@ -5,7 +5,7 @@ import './App.css'
 function App() {
    useEffect(() => {
       const timer = setTimeout(() => {
-      window.location.href = 'https://elodiebaptism.my.canva.site'
+      // window.location.href = 'https://elodiebaptism.my.canva.site'
     }, 3000); // 3000ms = 3 seconds
 
     return () => clearTimeout(timer); // Cleanup
