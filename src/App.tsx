@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import ElodiePng from './assets/Elodie.jpeg'
+import ElodieProfile from './assets/Elodie-Hope-min.jpg'
 import './App.css'
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
     <>
        <div className="blessing-elements">🕊️</div>
         <div className="blessing-elements2">🙏</div>
-        <img className="portrait" src={ElodiePng} alt="Celebrant Photo" />
+        <img className="portrait" src={ElodieProfile} alt="Celebrant Photo" />
         <div className="name">Elodie Hope Dela Cruz</div>
         <div className="message">“Let the little children come to me, and do not hinder them,<br></br> for the kingdom of God belongs to such as these.”
 
